@@ -121,7 +121,7 @@ export const PROJECTS = [
   {
     title: "Chefs Recipe Book",
     description: "A recipe book website for chefs to share their recipes. Designed with React and Node.js.",
-    image: "/projects/screen3.png",
+    image: "/projects/screen4.png",
     link: "#",
   },
   {
