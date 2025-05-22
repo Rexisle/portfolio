@@ -19,7 +19,7 @@ export default function About() {
       >
         <div className="mb-4 text-green-500 flex items-center gap-2">
           <TerminalSquare className="w-5 h-5" />
-          <span>rex@portfolio:~$</span>
+          <span>rex@about:~$</span>
           <span className="ml-2 text-green-300">
             <Typewriter
               words={['ls -la', 'cd /home/rex', 'cat about.txt', 'npm start', 'git clone', 'yarn install', 'ssh user@server', 'curl -O', 'wget', 'ping google.com', 'echo "About me!"']}
@@ -45,20 +45,12 @@ export default function About() {
           <div className="mb-4 pl-6">
            
             <span className="text-green-300">
-            I have a strong foundation in both front-end and back-end technologies, allowing me to build complete solutions from start to finish.
+            🚀 I have a strong foundation in both front-end and back-end technologies, allowing me to build complete solutions from start to finish.
               
               </span>
           </div>
 
-          <div className="pl-6">
-            📫 Contact:{" "}
-            <a
-              href="mailto:rex@example.com"
-              className="underline text-green-300 hover:text-green-200"
-            >
-              rex@example.com
-            </a>
-          </div>
+          
         
         </motion.div>
        

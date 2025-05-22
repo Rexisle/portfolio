@@ -61,7 +61,7 @@ export default function ContactSlideIn() {
                   </div>
 
                   {/* Contact Details */}
-                  <div className="space-y-5">
+                  <div className="space-y-5 items-center">
                     <div className="flex items-center gap-3 text-cyan-300">
                       <MessageSquare size={20} />
                       <a
