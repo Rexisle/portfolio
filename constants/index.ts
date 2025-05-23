@@ -115,18 +115,18 @@ export const PROJECTS = [
     title: "Modern Next.js 14 Portfolio",
     description: "A modern portfolio website built with Next.js 14, Tailwind CSS, and Framer Motion.",
     
-    image: "/projects/screen2.png",
-    link: "#",
+    image: "/projects/screen6.png",
+    link: "https://rexisle.github.io/theweboga/",
   },
   {
     title: "Chefs Recipe Book",
     description: "A recipe book website for chefs to share their recipes. Designed with React and Node.js.",
-    image: "/projects/screen4.png",
+    image: "/projects/screen7.png",
     link: "#",
   },
   {
     title: "Official football fans Website",
-    description: "A video-themed football fans website for blog post and videos",
+    description: "A video-themed football fans website for blog post and videos built with Laravel",
     
     image: "/projects/screen.png",
     link: "https://fanstribehq.com/",
