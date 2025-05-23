@@ -179,7 +179,7 @@ export const NAV_LINKS = [
     link: "#projects",
   },
   {
-    title: "contact me",
+    title: "Work with me",
     link: "#footer",
   },
 ] as const;
