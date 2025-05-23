@@ -1,6 +1,7 @@
 import Link from "next/link";
 import ContactSlideIn from "./contactSlide";
 import { FOOTER_DATA } from "@/constants";
+import { SparklesIcon } from "@heroicons/react/24/outline";
 
 export const Footer = () => {
   return (
@@ -27,6 +28,16 @@ export const Footer = () => {
              
              className="min-w-[200px] h-auto flex flex-col items-center justify-start"
            >
+            <br />
+            <div
+              className="Welcome-box py-[8px] px-[7px] p-[25px] border border-[#7042f88b] opacity-[0.9]"
+            >
+              <br />
+              <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5 inline-block" />
+              <h1 className="Welcome-text text-[13px] inline-block align-middle">
+              Work with me and get the best out of your ideas
+              </h1>
+            </div>
             <ContactSlideIn />
            
               
