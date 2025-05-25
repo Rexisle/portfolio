@@ -113,14 +113,14 @@ export const SOCIALS = [
 export const PROJECTS = [
   {
     title: "Modern Next.js 14 Portfolio",
-    description: "A modern portfolio website built with Next.js 14, Tailwind CSS, and Framer Motion.",
+    description: "A modern portfolio website built with React.js, Tailwind CSS, and Framer Motion.",
     
     image: "/projects/screen6.png",
     link: "https://rexisle.github.io/theweboga/",
   },
   {
     title: "Chefs Recipe Book",
-    description: "A recipe book website for chefs to share their recipes. Designed with React and Node.js.",
+    description: "A recipe book website for chefs to share their recipes. Designed with Next.js and Node.js.",
     image: "/projects/screen7.png",
     link: "#",
   },
