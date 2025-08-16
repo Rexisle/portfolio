@@ -53,7 +53,7 @@ export const Projects = () => {
                 className="p-6 bg-black/40 border-t border-purple-500/20"
               >
                 <p className="text-gray-300 text-sm">
-                  ✨Click button to check out the page
+                  ✨Bulit with NextJs, Tailwind CSS and Framer Motion..Graphics done in Canva
                 </p>
                 <a
                   href={PROJECTS[0].link}
@@ -105,8 +105,7 @@ export const Projects = () => {
                   className="px-6 pb-6 bg-black/30"
                 >
                   <p className="text-gray-300 text-sm">
-                    🔍 More details about {project.title}. Include role, tech
-                    stack, features, and challenges solved.
+                    Built with Pure HTML5, Bootsrap and custom CSS animations.
                   </p>
                   <a
                     href={project.link}
