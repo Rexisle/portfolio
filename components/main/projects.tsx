@@ -105,7 +105,7 @@ export const Projects = () => {
                   className="px-6 pb-6 bg-black/30"
                 >
                   <p className="text-gray-300 text-sm">
-                    Built with Pure HTML5, Bootsrap and custom CSS animations.
+                   {project.des}
                   </p>
                   <a
                     href={project.link}
