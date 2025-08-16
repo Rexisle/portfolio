@@ -118,8 +118,8 @@ export const PROJECTS = [
     link: "https://www.easyhowz.com/",
   },
   {
-    title: "Modern Next.js 14 Portfolio",
-    description: "A modern portfolio website built with pure HTML, bootsrap and custom CSS.",
+    title: "Modern HTML5 Portfolio",
+    description: "A modern portfolio website built with pure HTML, bootsrap and custom CSS animation.",
     
     image: "/projects/screen6.png",
     link: "https://rexisle.github.io/theweboga/",
