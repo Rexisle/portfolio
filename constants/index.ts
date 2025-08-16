@@ -115,21 +115,22 @@ export const PROJECTS = [
     title: "Easyhowz",
     description: "A modern and user-friendly real estate platform interface designed to connect users with properties quickly and efficiently",
     image: "/projects/easye.png",
+    des: "",
     link: "https://www.easyhowz.com/",
   },
   {
     title: "Modern HTML5 Portfolio",
     description: "A modern portfolio website built with pure HTML, bootsrap and custom CSS animation.",
-    
     image: "/projects/screen6.png",
+    des: "Built with HTML5, Bootstrap and Custom CSS Animation",
     link: "https://rexisle.github.io/theweboga/",
   },
   
   {
     title: "Official football fans Website",
     description: "A video-themed football fans website for blog post and videos built with Laravel",
-    
     image: "/projects/screen.png",
+    des: "Built with Laravel PHP and Custom CSS For styling",
     link: "https://fanstribehq.com/",
   },
 ] as const;
