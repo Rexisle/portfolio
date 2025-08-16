@@ -119,10 +119,10 @@ export const PROJECTS = [
     link: "https://rexisle.github.io/theweboga/",
   },
   {
-    title: "Chefs Recipe Book",
-    description: "A recipe book website for chefs to share their recipes. Designed with Next.js and Node.js.",
-    image: "/projects/screen7.png",
-    link: "#",
+    title: "Easyhowz",
+    description: "A modern and user-friendly real estate platform interface designed to connect users with properties quickly and efficiently",
+    image: "/projects/easye.png",
+    link: "https://www.easyhowz.com/",
   },
   {
     title: "Official football fans Website",
