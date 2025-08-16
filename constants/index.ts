@@ -112,18 +112,19 @@ export const SOCIALS = [
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
-    description: "A modern portfolio website built with React.js, Tailwind CSS, and Framer Motion.",
-    
-    image: "/projects/screen6.png",
-    link: "https://rexisle.github.io/theweboga/",
-  },
-  {
     title: "Easyhowz",
     description: "A modern and user-friendly real estate platform interface designed to connect users with properties quickly and efficiently",
     image: "/projects/easye.png",
     link: "https://www.easyhowz.com/",
   },
+  {
+    title: "Modern Next.js 14 Portfolio",
+    description: "A modern portfolio website built with pure HTML, bootsrap and custom CSS.",
+    
+    image: "/projects/screen6.png",
+    link: "https://rexisle.github.io/theweboga/",
+  },
+  
   {
     title: "Official football fans Website",
     description: "A video-themed football fans website for blog post and videos built with Laravel",
