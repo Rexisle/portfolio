@@ -53,8 +53,7 @@ export const Projects = () => {
                 className="p-6 bg-black/40 border-t border-purple-500/20"
               >
                 <p className="text-gray-300 text-sm">
-                  ✨ This is the featured project with more details. You can add
-                  tech stack, challenges, and links here.
+                  ✨Click button to check out the page
                 </p>
                 <a
                   href={PROJECTS[0].link}
