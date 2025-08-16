@@ -121,7 +121,7 @@ export const PROJECTS = [
   {
     title: "Modern HTML5 Portfolio",
     description: "A modern portfolio website built with pure HTML, bootsrap and custom CSS animation.",
-    image: "/projects/screen6.png",
+    image: "/projects/real.png",
     des: "Built with HTML5, Bootstrap and Custom CSS Animation",
     link: "https://rexisle.github.io/theweboga/",
   },
