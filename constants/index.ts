@@ -112,6 +112,20 @@ export const SOCIALS = [
 
 export const PROJECTS = [
   {
+    title: "QtMenuPro",
+    description: "A smart, geofenced digital menu system for restaurants that eliminates order errors, reduces waste, and boosts profits through automated upselling.",
+    image: "/projects/qt.png", // Ensure you add your image file path here
+    des: "Built with Next.js, Tailwind CSS, and Cloudflare Edge Network",
+    link: "https://qtmenupro.com/",
+  },
+  {
+    title: "Imo Hope for the Hopeless",
+    description: "A compassionate digital outreach and donation platform designed to connect charitable initiatives with supporters and manage community impact projects.",
+    image: "/projects/imo.png", // Ensure you add your image file path here
+    des: "Built with React, Vercel, and optimized for global accessibility",
+    link: "https://imohopeforthehopeless.ng/",
+  },
+  {
     title: "Easyhowz",
     description: "A modern and user-friendly real estate platform interface designed to connect users with properties quickly and efficiently",
     image: "/projects/easye.png",
@@ -120,12 +134,11 @@ export const PROJECTS = [
   },
   {
     title: "Modern HTML5 Portfolio",
-    description: "A modern portfolio website built with pure HTML, bootsrap and custom CSS animation.",
+    description: "A modern portfolio website built with pure HTML, bootstrap and custom CSS animation.",
     image: "/projects/real.png",
     des: "Built with HTML5, Bootstrap and Custom CSS Animation",
     link: "https://rexisle.github.io/theweboga/",
   },
-  
   {
     title: "Official football fans Website",
     description: "A video-themed football fans website for blog post and videos built with Laravel",
@@ -134,6 +147,7 @@ export const PROJECTS = [
     link: "https://fanstribehq.com/",
   },
 ] as const;
+
 
 export const FOOTER_DATA = [
   {
