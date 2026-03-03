@@ -13,8 +13,8 @@ export const Projects = () => {
       className="relative flex flex-col items-center justify-center py-20 px-6"
     >
       {/* Section Heading */}
-      <h2 className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent text-center">
-        Featured Projects 🚀
+      <h2 className="text-3xl md:text-4xl font-bold border-indigo-600 bg-clip-text text-transparent text-center">
+        Featured Projects
       </h2>
       <p className="mt-2 text-gray-400 text-center max-w-xl">
         A selection of my work. Click to explore more details.
