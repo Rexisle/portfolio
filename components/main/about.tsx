@@ -38,14 +38,14 @@ export default function About() {
           transition={{ delay: 2 }}
         >
           <p className="mb-4 pl-6">
-            👋 Hey! I'm <span className="text-green-300">Rex</span>, a full-stack
+            Hey! I'm <span className="text-green-300">Rex</span>, a full-stack
             developer with a passion for creating dynamic and responsive web applications. 
           </p>
 
           <div className="mb-4 pl-6">
            
             <span className="text-green-300">
-            🚀 I have a strong foundation in both front-end and back-end technologies, allowing me to build complete solutions from start to finish.
+            I have a strong foundation in both front-end and back-end technologies, allowing me to build complete solutions from start to finish.
               
               </span>
           </div>
